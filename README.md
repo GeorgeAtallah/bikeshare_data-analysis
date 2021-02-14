@@ -33,6 +33,7 @@ There are 3 main steps in this project
 2- Import data
 3- Analyize the data and display results
 
+The analysis that needed to be done on the selected dataset and timeframe was the following:
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
 
